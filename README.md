@@ -1,2 +1,2 @@
 # First-Repo
-I am testing.
+I am testing and exploring the possibilities of GitHub.
